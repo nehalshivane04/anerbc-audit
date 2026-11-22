@@ -1,0 +1,21 @@
+target,model,n,cv_r2,cv_r
+MCV,area only,907,0.021,0.147
+MCV,area + pallor frac,907,0.022,0.15
+MCV,area + pallor depth,907,0.027,0.166
+MCV,patent-style (area+pallor+rim),907,0.024,0.155
+MCV,all geometry,907,0.061,0.249
+MCH,area only,907,0.018,0.134
+MCH,area + pallor frac,907,0.022,0.15
+MCH,area + pallor depth,907,0.03,0.174
+MCH,patent-style (area+pallor+rim),907,0.024,0.155
+MCH,all geometry,907,0.063,0.254
+MCHC,area only,899,0.004,0.065
+MCHC,area + pallor frac,899,0.012,0.11
+MCHC,area + pallor depth,899,0.024,0.155
+MCHC,patent-style (area+pallor+rim),899,0.012,0.114
+MCHC,all geometry,899,0.04,0.203
+RDW,area only,572,-0.01,-0.077
+RDW,area + pallor frac,572,-0.016,-0.054
+RDW,area + pallor depth,572,-0.012,-0.05
+RDW,patent-style (area+pallor+rim),572,-0.016,-0.048
+RDW,all geometry,572,-0.028,-0.024

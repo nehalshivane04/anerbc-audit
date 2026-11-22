@@ -1,0 +1,15 @@
+feature,mean_abs_z_lab
+area_std,21.57
+area_mean,20.76
+perim_mean,11.0
+circ_mean,3.01
+mean_B,2.44
+mean_R,2.32
+glcm_correlation,1.89
+pallor_ratio,1.43
+ecc_mean,1.37
+glcm_homogeneity,1.14
+glcm_contrast,0.79
+solidity_mean,0.78
+mean_G,0.78
+glcm_energy,0.48

@@ -1,0 +1,13 @@
+metric,value
+label_vs_hgb_auc,0.635
+who_anemic_pct_healthy_folder,50.1
+who_anemic_pct_anemic_folder,72.5
+label_vs_who_agreement_pct,61.4
+label_who_disagreement_pct,38.6
+label_vs_morphology_pct,88.1
+cbc_files,1000.0
+cbc_distinct,641.0
+cbc_duplicate_pct,35.9
+unusable_records,82.0
+clean_patients,917.0
+stitch_pixel_diff,0.0

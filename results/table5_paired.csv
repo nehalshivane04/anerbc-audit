@@ -1,0 +1,5 @@
+comparison,n_pairs,mean_diff,favours,wins_for_favoured,t,p
+A_frozen_cnn vs B_frozen_hybrid,15,0.1741,B_frozen_hybrid,15/15,10.91,3.14e-08
+C_ft_cnn vs D_ft_hybrid,15,0.0273,D_ft_hybrid,9/15,1.03,0.321
+A_frozen_cnn vs C_ft_cnn,15,0.0864,C_ft_cnn,11/15,3.13,0.00742
+B_frozen_hybrid vs D_ft_hybrid,15,-0.0604,B_frozen_hybrid,14/15,-3.9,0.0016
